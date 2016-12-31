@@ -34,7 +34,7 @@ body {
 
 
 .column {
-    float: left;
+    	float: left;
 	margin: 10px;
 	padding: 20px;
 	background-color: #55acee;
@@ -42,25 +42,25 @@ body {
 }
 
 .container {
-    width: 1200px;
-    margin: 0 auto;
+    	width: 1200px;
+    	margin: 0 auto;
 }
 
 .btn-center {
-    margin-left: 50%;
-    margin-bottom: 30px;
-    transform: translateX(-50%);
+    	margin-left: 50%;
+    	margin-bottom: 30px;
+    	transform: translateX(-50%);
 }
 
 .btn-add {
-    background-color: #4CAF50; 
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+	background-color: #4CAF50; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
 	border-radius: 10px;
 }
 
@@ -90,8 +90,8 @@ li {
 }
 
 h1 {
-    text-align: center;
-    color: #000;
+	text-align: center;
+    	color: #000;
 }
 
 .card-description {
@@ -108,7 +108,7 @@ h1 {
 	color: white;
 	padding: 5px 20px;
 	cursor: pointer;
-    background-color: #187fc9;
-    border: none;
-    border-radius: 10px;
+    	background-color: #187fc9;
+    	border: none;
+    	border-radius: 10px;
 }
